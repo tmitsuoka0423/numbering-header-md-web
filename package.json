@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "rollup -c"
+    "dev": "rollup -c",
+    "watch": "rollup -c -w"
   },
   "repository": {
     "type": "git",
