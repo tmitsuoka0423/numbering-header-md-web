@@ -8,7 +8,7 @@ Then, numbered heading appears at the right side.
 
 ## Heading Example
 
-We support to number heading upto level 5.
+We support to number heading up to level 5.
 
 ## Heading2
 
