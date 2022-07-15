@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/tmitsuoka0423/svelte-simple-example#readme",
   "dependencies": {
-    "svelte": "^3.40.0"
+    "svelte": "^3.49.0"
   },
   "devDependencies": {
     "@rollup/plugin-node-resolve": "^13.0.2",
