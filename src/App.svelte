@@ -49,7 +49,7 @@
 
 	main.grid {
 		display: grid;
-		grid-template-columns: 0 1fr 0 1fr;
+		grid-template-columns: 1fr 1fr;
 	}
 	textarea {
 		display: block;
