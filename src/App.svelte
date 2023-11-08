@@ -11,7 +11,7 @@
     let countHeading4 = 0;
     let countHeading5 = 0;
   
-    result = input.split('\n').map((line) => {
+    result = input.replaceAll(/# (.*)\. /g, '# ').split('\n').map((line) => {
       if (line.startsWith('# ')) {
         countHeading2 = 0;
         return `${line.substring(0, 1)} ${++countHeading1}. ${line.substring(2)}`;
